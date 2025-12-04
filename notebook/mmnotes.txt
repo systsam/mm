@@ -1,0 +1,21 @@
+makemore:
+
+bigram character-level language model
+- given a character, predicts whats likely to follow
+
+bigram = pair of consecutive units like letters, syllables or words
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
